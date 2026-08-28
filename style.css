@@ -1,0 +1,96 @@
+
+h1 {
+    color: rgb(0, 68, 255);
+    font-size: 2rem;
+    text-align: center;
+}   
+
+h2 {
+    color: blue;
+    font-size: 2rem;
+    text-align: left;
+}
+
+hr {
+    border: 1px solid green;
+}
+
+.website-img {
+    background-color: green;
+    border: 5px solid white;
+    width: 50%;
+    border-radius: 50%;
+    margin-left: 75%;
+}
+.portfolio {
+  display: inline-block;
+  width: 50%;
+  margin-left: 0%;
+  margin-top: 0px;
+  color: white;
+  font-family: "Libre Baskerville", serif;
+  text-align: centre;
+}
+body {
+    background-color: rgba(0, 217, 255, 0.418);
+}
+.Expertise {
+    color: black;
+    text-align: center;
+
+}
+#Contact {
+ color: white;
+  font-family: "Libre Baskerville", serif;
+  text-align: left;
+}   
+body> p {
+    color: rgb(52, 4, 226);
+    text-align: center;
+    font-size: 2rem;
+}
+
+
+.logo1{
+    display: block;
+    float:left;
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-left: 0%;
+}
+.logo2{
+    display: inline-block;
+    float: left;
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-left: 0%;
+}
+.logo3{
+    display: inline-block;
+    float:left;
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-left: 0%;
+}
+
+.about{
+    background-color: antiquewhite;
+    margin: 10px;
+    margin-top: 0px;
+    border-radius:5px;
+    padding: 10px;
+}
+.education {
+    background-color: rgba(240, 159, 8, 0.795);
+    border-radius: 5px;
+
+}
+.class{
+    background-color: bisque;
+}
